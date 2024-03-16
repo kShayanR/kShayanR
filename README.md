@@ -9,7 +9,7 @@
   </a>
 </h1>
 
-# 💫 About Me :
+## 💫 About Me :
  
 - 💡 I’m Shayan Rezanejad, A .NET Full-Stack Developer with a passion for creating elegant and user-friendly web applications.
 
@@ -32,7 +32,7 @@
 
 
 
-# 💻 Languages and Tools : 
+## 💻 Languages and Tools : 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
@@ -49,7 +49,7 @@
 </p>
 
 
-# 📊 GitHub Stats :
+## 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=kShayanR&theme=midnight-purple&hide_border=true&center=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kShayanR&theme=midnight-purple&center=true&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kShayanR&theme=midnight-purple&center=true&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
